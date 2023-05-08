@@ -9,11 +9,14 @@ Matyias</a></h1>
 - Docker
 - AWS Lambda
 - Spring Cloud
+- AI
+- Machine Learning
 
 ### 🔭 I'm currently working on
 - Building a microservices-based e-commerce platform using .NET Core and MongoDB
 - Developing RESTful APIs for a mobile app using C# and ASP.NET
 - Deploying and scaling applications on AWS using Elastic Beanstalk and Lambda
+- Mobile app
 
 ### 💬 Ask me about
 - Java - C#
